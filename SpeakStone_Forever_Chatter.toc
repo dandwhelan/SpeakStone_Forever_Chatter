@@ -2,6 +2,7 @@
 ## Title: SpeakStone Narration - Forever Chatter
 ## Notes: WoW Forever NPC gossip and book audio, with voices similar to the in-game characters. Install alongside the Forever Audio Packs. Requires SpeakStone_Forever_Main. Unofficial; not affiliated with Blizzard Entertainment.
 ## Author: Nerf, SpeakStone@beanw.co.uk
+## X-Curse-Project-ID: 1717454
 ## Version: 1.0.1
 
 ## RequiredDeps: SpeakStone_Forever_Main
