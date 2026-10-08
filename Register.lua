@@ -15,8 +15,10 @@ local voice = {
         Ud = "Undead",
     },
     npc = {
+        [197] = "HuM",
         [198] = "HuM",
         [240] = "HuM",
+        [268] = "HuM",
         [295] = "HuM",
         [331] = "HuM",
         [332] = "HuM",
