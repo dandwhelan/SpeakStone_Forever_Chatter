@@ -9,3 +9,10 @@ ignore:
 manual-changelog:
   filename: CHANGELOG.md
   markup-type: markdown
+
+# Forever projects only -- never a retail SpeakStone project here.
+required-dependencies:
+  - speakstone-forever-main-voice-everything   # 1706480
+optional-dependencies:
+  - speakstone-forever-audio-pack1             # 1706485
+  - speakstone-forever-audio-pack-2            # 1710074
