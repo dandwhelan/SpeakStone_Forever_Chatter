@@ -12,7 +12,10 @@ manual-changelog:
 
 # Forever projects only -- never a retail SpeakStone project here.
 required-dependencies:
-  - speakstone-forever-main-voice-everything   # 1706480
+  # 1706480
+  - speakstone-forever-main-voice-everything
 optional-dependencies:
-  - speakstone-forever-audio-pack1             # 1706485
-  - speakstone-forever-audio-pack-2            # 1710074
+  # 1706485
+  - speakstone-forever-audio-pack1
+  # 1710074
+  - speakstone-forever-audio-pack-2
