@@ -540,6 +540,7 @@ SpeakStoneSoundLengths_Pack_SpeakStone_Forever_Chatter = {
     ["item_lethargy_of_the_orcs_page6.ogg"] = 12.80,
     ["item_lethargy_of_the_orcs_page7.ogg"] = 11.70,
     ["item_lethargy_of_the_orcs_page8.ogg"] = 20.50,
+    ["item_letter_from_dragha_page1.ogg"] = 33.04,
     ["item_letter_to_delgren_page1.ogg"] = 26.70,
     ["item_letter_to_delgren_page2.ogg"] = 16.50,
     ["item_letter_to_ello_page1.ogg"] = 6.20,

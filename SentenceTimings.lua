@@ -484,6 +484,7 @@ local T = {
 ["item_lethargy_of_the_orcs_page5"]="67,104",
 ["item_lethargy_of_the_orcs_page6"]="58",
 ["item_lethargy_of_the_orcs_page8"]="54,138",
+["item_letter_from_dragha_page1"]="51,99,157,180,201,246,270,284,294,313,327",
 ["item_letter_to_delgren_page1"]="27,59,116,142,182,264",
 ["item_letter_to_delgren_page2"]="56,154",
 ["item_letter_to_ello_page1"]="37",
