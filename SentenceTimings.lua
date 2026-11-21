@@ -2876,6 +2876,7 @@ local T = {
 ["npc255940_gossip1"]="33",
 ["npc255993_gossip1"]="54,122",
 ["npc255993_gossip2"]="54,122",
+["npc256076_gossip1"]="47,92",
 ["npc256083_gossip1"]="n",
 ["npc256247_gossip1"]="18,41",
 ["npc256252_gossip1"]="n36,79",
