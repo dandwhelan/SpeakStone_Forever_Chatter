@@ -1710,6 +1710,7 @@ SpeakStoneSoundLengths_Pack_SpeakStone_Forever_Chatter = {
     ["npc11869_gossip2.ogg"] = 37.13,
     ["npc11870_gossip1.ogg"] = 8.54,
     ["npc11899_gossip1.ogg"] = 2.03,
+    ["npc11900_gossip1.ogg"] = 2.15,
     ["npc11901_gossip1.ogg"] = 2.01,
     ["npc11939_gossip1.ogg"] = 12.42,
     ["npc11956_gossip1.ogg"] = 3.95,
