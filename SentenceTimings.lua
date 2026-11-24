@@ -708,7 +708,7 @@ local T = {
 ["npc13717_gossip2"]="42,68,97,145",
 ["npc13776_gossip1"]="16",
 ["npc1382_gossip2"]="50",
-["npc1382_gossip3"]="42",
+["npc1382_gossip3"]="45",
 ["npc1383_gossip1"]="25",
 ["npc1383_gossip2"]="58",
 ["npc1383_gossip3"]="84",
@@ -4806,7 +4806,7 @@ local T = {
 ["npc963_gossip2"]="16,46,113,152",
 ["npc9836_gossip1"]="46,113,198,306",
 ["npc985_gossip1"]="19",
-["npc986_gossip1"]="30",
+["npc986_gossip1"]="32",
 ["npc9990_gossip1"]="68",
 ["npc9997_gossip1"]="67",
 }
